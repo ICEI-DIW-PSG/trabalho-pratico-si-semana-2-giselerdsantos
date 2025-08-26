@@ -8,7 +8,7 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-[Imagem curriculo persefone](images/paginacurriculocerto.png)
+[Imagem curriculo persefone](paginacurriculocerto.png)
  
  ## Tela de inspeção 
 
