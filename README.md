@@ -3,9 +3,13 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Gisele Rodrigues dos Santos
+- Matricula: **903350**
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+[Imagem curriculo persefone](images/paginacurriculocerto.png)
+ 
+ ## Tela de inspeção 
+
+ [tela de inspeção](teladeinspecao.png)
